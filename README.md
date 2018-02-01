@@ -12,4 +12,4 @@ Weather API disponível em - [Apixu](https://www.apixu.com/)
 * Background muda caso dia ou noite.
 * As informações são dadas conforme localização.
 
-![Preview](imgs/website.png)
+![Preview](img/website.png)
