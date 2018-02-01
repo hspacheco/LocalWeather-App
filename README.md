@@ -1,6 +1,6 @@
 # LocalWeather-App
 
-Disponível em : [LocalWheater](https://hspacheco.github.io/LocalWeather-App/)
+Disponível em: [LocalWheater](https://hspacheco.github.io/LocalWeather-App/)
 
 ## Desafio Convergence Works
 
